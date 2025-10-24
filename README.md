@@ -1,2 +1,2 @@
-# digital_nazi_hunter
+# people_of_the_holocaust
 Senior Design Project
